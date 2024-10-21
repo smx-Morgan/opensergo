@@ -16,6 +16,7 @@ package adapter
 
 import (
 	"context"
+
 	"github.com/cloudwego-contrib/cwgo-pkg/opensergo/sentinel/hzadapter"
 	"github.com/cloudwego/hertz/pkg/app"
 	"github.com/cloudwego/hertz/pkg/protocol"
